@@ -41,8 +41,7 @@ starlette==0.45.3
 sympy==1.13.1
 torch==2.0.1
 torchvision==0.15.2
-torchaudio==2.6.0+cu118
-torchvision==0.21.0+cu118
+torchaudio==2.0.1
 typer==0.15.1
 typing_extensions==4.12.2
 ujson==5.10.0
